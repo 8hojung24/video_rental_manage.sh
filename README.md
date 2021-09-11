@@ -3,6 +3,8 @@ Video Rental manage
 
 If you enter a numeric key between 0 and 4, the program works as follows.
 
+The program is executed when the video list exists,
+After retntal, a file is created with the borrower's name.
 
 1. Create Account
 
