@@ -30,4 +30,4 @@ after 4(Return Video) video List
 
 0. Quit
 
-<img src="https://user-images.githubusercontent.com/67528774/132947905-6d5441bd-2727-448a-ab89-04d5758577ad.png" width="300" height="200"/>
+<img src="https://user-images.githubusercontent.com/67528774/132947905-6d5441bd-2727-448a-ab89-04d5758577ad.png">
